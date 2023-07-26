@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "1",
+    "title": "Marketing Assistant",
+    "description": "Hydroxyapatite deposition disease, left wrist",
+    "startDate": "6/12/2023",
+    "endDate": "4/4/2023",
+    "image": "http://dummyimage.com/135x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "2",
+    "title": "Product Engineer",
+    "description": "External constriction of right shoulder, sequela",
+    "startDate": "5/7/2023",
+    "endDate": "6/10/2023",
+    "image": "http://dummyimage.com/211x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "3",
+    "title": "Environmental Specialist",
+    "description": "Effusion, left wrist",
+    "startDate": "7/28/2022",
+    "endDate": "3/11/2023",
+    "image": "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "4",
+    "title": "Data Coordinator",
+    "description": "Foreign body granuloma of soft tissue, not elsewhere classified, right forearm",
+    "startDate": "11/25/2022",
+    "endDate": "4/5/2023",
+    "image": "http://dummyimage.com/243x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "5",
+    "title": "Recruiter",
+    "description": "Traumatic subarachnoid hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level",
+    "startDate": "3/1/2023",
+    "endDate": "5/9/2023",
+    "image": "http://dummyimage.com/195x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "6",
+    "title": "Research Assistant IV",
+    "description": "Tidal wave due to landslide, sequela",
+    "startDate": "7/28/2022",
+    "endDate": "3/21/2023",
+    "image": "http://dummyimage.com/189x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "7",
+    "title": "Help Desk Operator",
+    "description": "Nondisplaced transverse fracture of left patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",
+    "startDate": "12/25/2022",
+    "endDate": "6/29/2023",
+    "image": "http://dummyimage.com/124x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "8",
+    "title": "Payment Adjustment Coordinator",
+    "description": "Congenital lordosis, sacral and sacrococcygeal region",
+    "startDate": "2/9/2023",
+    "endDate": "1/27/2023",
+    "image": "http://dummyimage.com/129x100.png/ff4444/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "9",
+    "title": "Occupational Therapist",
+    "description": "Subluxation of unspecified interphalangeal joint of other finger, subsequent encounter",
+    "startDate": "12/11/2022",
+    "endDate": "6/10/2023",
+    "image": "http://dummyimage.com/123x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "10",
+    "title": "Research Associate",
+    "description": "Unspecified open wound of left elbow, sequela",
+    "startDate": "7/28/2022",
+    "endDate": "4/6/2023",
+    "image": "http://dummyimage.com/141x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "11",
+    "title": "Account Coordinator",
+    "description": "Other specified injury of plantar artery of right foot, sequela",
+    "startDate": "5/7/2023",
+    "endDate": "11/4/2022",
+    "image": "http://dummyimage.com/246x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "12",
+    "title": "Senior Developer",
+    "description": "Other physeal arrest of lower leg",
+    "startDate": "3/20/2023",
+    "endDate": "8/2/2022",
+    "image": "http://dummyimage.com/139x100.png/5fa2dd/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "13",
+    "title": "Recruiter",
+    "description": "Removal of other organ (partial) (total) as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",
+    "startDate": "8/30/2022",
+    "endDate": "4/10/2023",
+    "image": "http://dummyimage.com/183x100.png/ff4444/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "14",
+    "title": "Account Representative III",
+    "description": "Unstable burst fracture of third lumbar vertebra, initial encounter for open fracture",
+    "startDate": "10/19/2022",
+    "endDate": "1/26/2023",
+    "image": "http://dummyimage.com/227x100.png/ff4444/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "15",
+    "title": "Statistician IV",
+    "description": "Other superficial bite of unspecified back wall of thorax, initial encounter",
+    "startDate": "8/17/2022",
+    "endDate": "5/28/2023",
+    "image": "http://dummyimage.com/235x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "16",
+    "title": "Nurse Practicioner",
+    "description": "Gonococcal meningitis",
+    "startDate": "6/30/2023",
+    "endDate": "3/22/2023",
+    "image": "http://dummyimage.com/177x100.png/ff4444/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "17",
+    "title": "Account Representative II",
+    "description": "Puncture wound without foreign body, unspecified hip, initial encounter",
+    "startDate": "3/1/2023",
+    "endDate": "1/18/2023",
+    "image": "http://dummyimage.com/206x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "18",
+    "title": "Account Representative IV",
+    "description": "Laceration of superficial palmar arch of unspecified hand",
+    "startDate": "6/22/2023",
+    "endDate": "7/12/2023",
+    "image": "http://dummyimage.com/132x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "19",
+    "title": "Staff Accountant II",
+    "description": "Displaced oblique fracture of shaft of unspecified radius, subsequent encounter for open fracture type I or II with malunion",
+    "startDate": "5/15/2023",
+    "endDate": "3/2/2023",
+    "image": "http://dummyimage.com/199x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "20",
+    "title": "Media Manager IV",
+    "description": "Partial traumatic transmetacarpal amputation of left hand, subsequent encounter",
+    "startDate": "2/28/2023",
+    "endDate": "10/13/2022",
+    "image": "http://dummyimage.com/194x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "21",
+    "title": "Chief Design Engineer",
+    "description": "Accidental twist by another person",
+    "startDate": "11/20/2022",
+    "endDate": "2/13/2023",
+    "image": "http://dummyimage.com/216x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "22",
+    "title": "Legal Assistant",
+    "description": "Foster father, perpetrator of maltreatment and neglect",
+    "startDate": "9/8/2022",
+    "endDate": "11/14/2022",
+    "image": "http://dummyimage.com/174x100.png/5fa2dd/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "23",
+    "title": "Tax Accountant",
+    "description": "Congenital absence of ovary, unilateral",
+    "startDate": "8/19/2022",
+    "endDate": "11/6/2022",
+    "image": "http://dummyimage.com/244x100.png/ff4444/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "24",
+    "title": "Software Consultant",
+    "description": "Adverse effect of other bacterial vaccines, sequela",
+    "startDate": "3/22/2023",
+    "endDate": "1/21/2023",
+    "image": "http://dummyimage.com/194x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "25",
+    "title": "Legal Assistant",
+    "description": "Passenger of ambulance or fire engine injured in nontraffic accident, subsequent encounter",
+    "startDate": "7/16/2023",
+    "endDate": "12/3/2022",
+    "image": "http://dummyimage.com/203x100.png/5fa2dd/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "26",
+    "title": "Sales Associate",
+    "description": "Striking against glass with subsequent fall",
+    "startDate": "6/19/2023",
+    "endDate": "6/20/2023",
+    "image": "http://dummyimage.com/186x100.png/dddddd/000000",
+    "categories": "Social"
+  },
+  {
+    "id": "27",
+    "title": "VP Quality Control",
+    "description": "Abnormal findings on diagnostic imaging of limbs",
+    "startDate": "7/25/2022",
+    "endDate": "5/7/2023",
+    "image": "http://dummyimage.com/204x100.png/dddddd/000000",
+    "categories": "Social"
+  },
+  {
+    "id": "28",
+    "title": "Actuary",
+    "description": "False labor before 37 completed weeks of gestation, second trimester",
+    "startDate": "8/22/2022",
+    "endDate": "10/14/2022",
+    "image": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "29",
+    "title": "Accounting Assistant II",
+    "description": "Unspecified cervical disc disorder at C5-C6 level",
+    "startDate": "6/27/2023",
+    "endDate": "10/3/2022",
+    "image": "http://dummyimage.com/168x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "30",
+    "title": "Dental Hygienist",
+    "description": "Burn of unspecified degree of multiple sites of shoulder and upper limb, except wrist and hand",
+    "startDate": "12/4/2022",
+    "endDate": "8/19/2022",
+    "image": "http://dummyimage.com/220x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "31",
+    "title": "Programmer I",
+    "description": "Hostility",
+    "startDate": "8/10/2022",
+    "endDate": "12/21/2022",
+    "image": "http://dummyimage.com/201x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "32",
+    "title": "Design Engineer",
+    "description": "Displacement of internal fixation device of right humerus, initial encounter",
+    "startDate": "7/5/2023",
+    "endDate": "3/29/2023",
+    "image": "http://dummyimage.com/114x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "33",
+    "title": "Editor",
+    "description": "Other forms of anthrax",
+    "startDate": "5/17/2023",
+    "endDate": "2/7/2023",
+    "image": "http://dummyimage.com/136x100.png/ff4444/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "34",
+    "title": "Senior Sales Associate",
+    "description": "Smith's fracture of left radius, initial encounter for open fracture type I or II",
+    "startDate": "6/14/2023",
+    "endDate": "1/20/2023",
+    "image": "http://dummyimage.com/110x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "35",
+    "title": "Senior Quality Engineer",
+    "description": "Struck by shoe cleats, initial encounter",
+    "startDate": "4/23/2023",
+    "endDate": "8/30/2022",
+    "image": "http://dummyimage.com/129x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "36",
+    "title": "Teacher",
+    "description": "Unspecified fracture of facial bones, sequela",
+    "startDate": "7/8/2023",
+    "endDate": "2/24/2023",
+    "image": "http://dummyimage.com/240x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "37",
+    "title": "Developer I",
+    "description": "Hit or struck by falling object due to accident to passenger ship, sequela",
+    "startDate": "2/3/2023",
+    "endDate": "8/31/2022",
+    "image": "http://dummyimage.com/234x100.png/ff4444/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "38",
+    "title": "Staff Scientist",
+    "description": "Motorcycle driver injured in collision with unspecified motor vehicles in nontraffic accident, sequela",
+    "startDate": "7/5/2023",
+    "endDate": "9/28/2022",
+    "image": "http://dummyimage.com/205x100.png/dddddd/000000",
+    "categories": "Social"
+  },
+  {
+    "id": "39",
+    "title": "Data Coordinator",
+    "description": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified site",
+    "startDate": "6/28/2023",
+    "endDate": "9/14/2022",
+    "image": "http://dummyimage.com/126x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "40",
+    "title": "Quality Engineer",
+    "description": "Bullous myringitis, bilateral",
+    "startDate": "11/25/2022",
+    "endDate": "3/6/2023",
+    "image": "http://dummyimage.com/122x100.png/5fa2dd/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "41",
+    "title": "Environmental Tech",
+    "description": "Minor laceration of liver, sequela",
+    "startDate": "6/14/2023",
+    "endDate": "1/29/2023",
+    "image": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "42",
+    "title": "Geological Engineer",
+    "description": "Melanocytic nevi of trunk",
+    "startDate": "10/19/2022",
+    "endDate": "1/6/2023",
+    "image": "http://dummyimage.com/175x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "43",
+    "title": "Structural Engineer",
+    "description": "Calcification and ossification of muscles associated with burns, left ankle and foot",
+    "startDate": "3/9/2023",
+    "endDate": "3/2/2023",
+    "image": "http://dummyimage.com/244x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "44",
+    "title": "Quality Engineer",
+    "description": "Other mastoiditis and related conditions, unspecified ear",
+    "startDate": "3/11/2023",
+    "endDate": "8/19/2022",
+    "image": "http://dummyimage.com/110x100.png/ff4444/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "45",
+    "title": "Statistician I",
+    "description": "Oligospermia due to extratesticular causes",
+    "startDate": "11/24/2022",
+    "endDate": "4/29/2023",
+    "image": "http://dummyimage.com/106x100.png/ff4444/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "46",
+    "title": "Chemical Engineer",
+    "description": "War operations involving explosion of unspecified marine weapon, military personnel, sequela",
+    "startDate": "11/3/2022",
+    "endDate": "7/27/2022",
+    "image": "http://dummyimage.com/232x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "47",
+    "title": "Operator",
+    "description": "Injury of radial artery at forearm level",
+    "startDate": "6/4/2023",
+    "endDate": "11/13/2022",
+    "image": "http://dummyimage.com/223x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "48",
+    "title": "Analog Circuit Design manager",
+    "description": "Mechanical complication of implanted electronic stimulator of nervous system",
+    "startDate": "6/13/2023",
+    "endDate": "12/30/2022",
+    "image": "http://dummyimage.com/238x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "49",
+    "title": "Data Coordinator",
+    "description": "Primary open-angle glaucoma, right eye, indeterminate stage",
+    "startDate": "11/24/2022",
+    "endDate": "1/10/2023",
+    "image": "http://dummyimage.com/134x100.png/ff4444/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "50",
+    "title": "Sales Associate",
+    "description": "Terrorism involving fires, conflagration and hot substances, public safety official injured, sequela",
+    "startDate": "4/9/2023",
+    "endDate": "1/5/2023",
+    "image": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "51",
+    "title": "Account Representative I",
+    "description": "Sprain of jaw",
+    "startDate": "7/30/2022",
+    "endDate": "12/2/2022",
+    "image": "http://dummyimage.com/208x100.png/ff4444/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "52",
+    "title": "Assistant Manager",
+    "description": "Retinal telangiectasis, bilateral",
+    "startDate": "12/28/2022",
+    "endDate": "10/27/2022",
+    "image": "http://dummyimage.com/177x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "53",
+    "title": "Automation Specialist III",
+    "description": "Underdosing of other primarily systemic and hematological agents",
+    "startDate": "8/28/2022",
+    "endDate": "12/22/2022",
+    "image": "http://dummyimage.com/180x100.png/5fa2dd/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "54",
+    "title": "Librarian",
+    "description": "Insect bite (nonvenomous) of other part of head, sequela",
+    "startDate": "6/11/2023",
+    "endDate": "9/25/2022",
+    "image": "http://dummyimage.com/184x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "55",
+    "title": "Director of Sales",
+    "description": "Unspecified occupant of heavy transport vehicle injured in collision with car, pick-up truck or van in nontraffic accident, sequela",
+    "startDate": "1/2/2023",
+    "endDate": "7/12/2023",
+    "image": "http://dummyimage.com/141x100.png/dddddd/000000",
+    "categories": "Social"
+  },
+  {
+    "id": "56",
+    "title": "Registered Nurse",
+    "description": "Foreign body or object entering through skin",
+    "startDate": "8/9/2022",
+    "endDate": "12/14/2022",
+    "image": "http://dummyimage.com/111x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "57",
+    "title": "Budget/Accounting Analyst III",
+    "description": "Unspecified foreign body in esophagus causing compression of trachea, sequela",
+    "startDate": "11/12/2022",
+    "endDate": "11/14/2022",
+    "image": "http://dummyimage.com/144x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "58",
+    "title": "VP Product Management",
+    "description": "Other calcification of muscle, left ankle and foot",
+    "startDate": "4/25/2023",
+    "endDate": "1/3/2023",
+    "image": "http://dummyimage.com/193x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "59",
+    "title": "Mechanical Systems Engineer",
+    "description": "Unspecified focal traumatic brain injury with loss of consciousness of unspecified duration, sequela",
+    "startDate": "2/5/2023",
+    "endDate": "7/9/2023",
+    "image": "http://dummyimage.com/189x100.png/ff4444/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "60",
+    "title": "Environmental Tech",
+    "description": "Unspecified cataclysmic storm, subsequent encounter",
+    "startDate": "11/22/2022",
+    "endDate": "11/2/2022",
+    "image": "http://dummyimage.com/140x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "61",
+    "title": "Nurse Practicioner",
+    "description": "Poisoning by emetics, accidental (unintentional), sequela",
+    "startDate": "6/17/2023",
+    "endDate": "2/16/2023",
+    "image": "http://dummyimage.com/243x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "62",
+    "title": "Associate Professor",
+    "description": "Histidinemia",
+    "startDate": "3/14/2023",
+    "endDate": "10/18/2022",
+    "image": "http://dummyimage.com/154x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "63",
+    "title": "Junior Executive",
+    "description": "Poisoning by carbonic-anhydrase inhibitors, benzothiadiazides and other diuretics, intentional self-harm",
+    "startDate": "2/2/2023",
+    "endDate": "3/20/2023",
+    "image": "http://dummyimage.com/229x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "64",
+    "title": "Assistant Media Planner",
+    "description": "Malignant neoplasm of submandibular gland",
+    "startDate": "5/12/2023",
+    "endDate": "12/17/2022",
+    "image": "http://dummyimage.com/197x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "65",
+    "title": "Information Systems Manager",
+    "description": "Nondisplaced fracture of lower epiphysis (separation) of right femur, initial encounter for closed fracture",
+    "startDate": "4/16/2023",
+    "endDate": "11/16/2022",
+    "image": "http://dummyimage.com/188x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "66",
+    "title": "Librarian",
+    "description": "Puncture wound of abdominal wall with foreign body, epigastric region without penetration into peritoneal cavity, sequela",
+    "startDate": "9/28/2022",
+    "endDate": "8/20/2022",
+    "image": "http://dummyimage.com/113x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "67",
+    "title": "Help Desk Technician",
+    "description": "Toxic effect of venom of other reptiles, accidental (unintentional), subsequent encounter",
+    "startDate": "10/12/2022",
+    "endDate": "6/13/2023",
+    "image": "http://dummyimage.com/176x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "68",
+    "title": "Electrical Engineer",
+    "description": "Speech and language deficits following unspecified cerebrovascular disease",
+    "startDate": "9/15/2022",
+    "endDate": "1/11/2023",
+    "image": "http://dummyimage.com/198x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "69",
+    "title": "Administrative Officer",
+    "description": "Maternal care for (suspected) hereditary disease in fetus, fetus 1",
+    "startDate": "5/17/2023",
+    "endDate": "5/27/2023",
+    "image": "http://dummyimage.com/221x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "70",
+    "title": "Chemical Engineer",
+    "description": "Injury of median nerve at wrist and hand level of unspecified arm, initial encounter",
+    "startDate": "2/15/2023",
+    "endDate": "6/12/2023",
+    "image": "http://dummyimage.com/221x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "71",
+    "title": "Help Desk Operator",
+    "description": "Preglaucoma, unspecified, unspecified eye",
+    "startDate": "6/17/2023",
+    "endDate": "6/19/2023",
+    "image": "http://dummyimage.com/190x100.png/5fa2dd/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "72",
+    "title": "Office Assistant II",
+    "description": "Underdosing of other general anesthetics, sequela",
+    "startDate": "4/21/2023",
+    "endDate": "10/8/2022",
+    "image": "http://dummyimage.com/176x100.png/ff4444/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "73",
+    "title": "Civil Engineer",
+    "description": "Familial chondrocalcinosis, unspecified wrist",
+    "startDate": "8/28/2022",
+    "endDate": "6/11/2023",
+    "image": "http://dummyimage.com/136x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "74",
+    "title": "Programmer IV",
+    "description": "Foreign body granuloma of soft tissue, not elsewhere classified, right thigh",
+    "startDate": "7/5/2023",
+    "endDate": "12/3/2022",
+    "image": "http://dummyimage.com/197x100.png/5fa2dd/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "75",
+    "title": "Occupational Therapist",
+    "description": "Finding of abnormal level of heavy metals in blood",
+    "startDate": "6/7/2023",
+    "endDate": "4/16/2023",
+    "image": "http://dummyimage.com/197x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "76",
+    "title": "Research Associate",
+    "description": "Partial traumatic amputation at hip joint",
+    "startDate": "1/13/2023",
+    "endDate": "5/24/2023",
+    "image": "http://dummyimage.com/156x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "77",
+    "title": "Legal Assistant",
+    "description": "Burn of cornea and conjunctival sac, unspecified eye",
+    "startDate": "2/1/2023",
+    "endDate": "9/9/2022",
+    "image": "http://dummyimage.com/198x100.png/ff4444/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "78",
+    "title": "Software Test Engineer I",
+    "description": "Puncture wound without foreign body of unspecified part of thorax",
+    "startDate": "9/7/2022",
+    "endDate": "10/23/2022",
+    "image": "http://dummyimage.com/168x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "79",
+    "title": "Database Administrator I",
+    "description": "Encounter for surveillance of contraceptive pills",
+    "startDate": "3/23/2023",
+    "endDate": "8/22/2022",
+    "image": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "80",
+    "title": "Office Assistant IV",
+    "description": "Congenital pulmonary valve stenosis",
+    "startDate": "2/16/2023",
+    "endDate": "9/1/2022",
+    "image": "http://dummyimage.com/186x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "81",
+    "title": "Graphic Designer",
+    "description": "Unspecified physeal fracture of lower end of radius, left arm, subsequent encounter for fracture with delayed healing",
+    "startDate": "12/18/2022",
+    "endDate": "11/1/2022",
+    "image": "http://dummyimage.com/125x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "82",
+    "title": "Community Outreach Specialist",
+    "description": "Strain of other muscles, fascia and tendons at forearm level, unspecified arm, sequela",
+    "startDate": "1/13/2023",
+    "endDate": "11/25/2022",
+    "image": "http://dummyimage.com/121x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "83",
+    "title": "Analyst Programmer",
+    "description": "Chronic leukemia of unspecified cell type, in remission",
+    "startDate": "6/18/2023",
+    "endDate": "7/13/2023",
+    "image": "http://dummyimage.com/216x100.png/dddddd/000000",
+    "categories": "Social"
+  },
+  {
+    "id": "84",
+    "title": "Quality Engineer",
+    "description": "Unspecified injury of unspecified elbow, initial encounter",
+    "startDate": "5/9/2023",
+    "endDate": "9/8/2022",
+    "image": "http://dummyimage.com/237x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "85",
+    "title": "Mechanical Systems Engineer",
+    "description": "Unspecified open wound of unspecified external genital organs, female",
+    "startDate": "12/30/2022",
+    "endDate": "9/28/2022",
+    "image": "http://dummyimage.com/220x100.png/5fa2dd/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "86",
+    "title": "Associate Professor",
+    "description": "Displaced fracture of distal phalanx of unspecified great toe, subsequent encounter for fracture with routine healing",
+    "startDate": "4/14/2023",
+    "endDate": "10/30/2022",
+    "image": "http://dummyimage.com/225x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "87",
+    "title": "Engineer I",
+    "description": "Fibrosis due to vascular prosthetic devices, implants and grafts, initial encounter",
+    "startDate": "6/16/2023",
+    "endDate": "8/14/2022",
+    "image": "http://dummyimage.com/153x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "88",
+    "title": "VP Accounting",
+    "description": "Anterior scleritis, left eye",
+    "startDate": "10/4/2022",
+    "endDate": "8/3/2022",
+    "image": "http://dummyimage.com/158x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "89",
+    "title": "Research Assistant III",
+    "description": "Nondisplaced fracture of proximal phalanx of unspecified lesser toe(s), subsequent encounter for fracture with routine healing",
+    "startDate": "11/30/2022",
+    "endDate": "2/17/2023",
+    "image": "http://dummyimage.com/174x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "90",
+    "title": "Compensation Analyst",
+    "description": "Contusion of right ring finger with damage to nail, sequela",
+    "startDate": "3/6/2023",
+    "endDate": "3/3/2023",
+    "image": "http://dummyimage.com/247x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "91",
+    "title": "Clinical Specialist",
+    "description": "Other injury of inferior vena cava, sequela",
+    "startDate": "3/7/2023",
+    "endDate": "7/24/2023",
+    "image": "http://dummyimage.com/222x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "92",
+    "title": "Electrical Engineer",
+    "description": "Unspecified superficial injury of right forearm, subsequent encounter",
+    "startDate": "4/24/2023",
+    "endDate": "12/30/2022",
+    "image": "http://dummyimage.com/117x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "93",
+    "title": "Sales Representative",
+    "description": "Other physeal fracture of lower end of unspecified fibula, subsequent encounter for fracture with delayed healing",
+    "startDate": "10/24/2022",
+    "endDate": "12/5/2022",
+    "image": "http://dummyimage.com/152x100.png/dddddd/000000",
+    "categories": "Social"
+  },
+  {
+    "id": "94",
+    "title": "Social Worker",
+    "description": "Other physeal fracture of phalanx of left toe, subsequent encounter for fracture with delayed healing",
+    "startDate": "8/8/2022",
+    "endDate": "5/4/2023",
+    "image": "http://dummyimage.com/114x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "95",
+    "title": "Human Resources Manager",
+    "description": "Intracranial and intraspinal abscess and granuloma",
+    "startDate": "8/4/2022",
+    "endDate": "10/29/2022",
+    "image": "http://dummyimage.com/156x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "96",
+    "title": "Web Designer IV",
+    "description": "Nondisplaced intertrochanteric fracture of left femur, sequela",
+    "startDate": "4/9/2023",
+    "endDate": "4/3/2023",
+    "image": "http://dummyimage.com/160x100.png/dddddd/000000",
+    "categories": "Social"
+  },
+  {
+    "id": "97",
+    "title": "Web Designer III",
+    "description": "Type AB blood, Rh positive",
+    "startDate": "11/4/2022",
+    "endDate": "5/30/2023",
+    "image": "http://dummyimage.com/248x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "98",
+    "title": "GIS Technical Architect",
+    "description": "Fracture of other part of scapula, left shoulder, sequela",
+    "startDate": "2/28/2023",
+    "endDate": "2/5/2023",
+    "image": "http://dummyimage.com/126x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "99",
+    "title": "Director of Sales",
+    "description": "Injury of unspecified nerve at wrist and hand level of left arm, subsequent encounter",
+    "startDate": "12/26/2022",
+    "endDate": "11/20/2022",
+    "image": "http://dummyimage.com/243x100.png/ff4444/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "100",
+    "title": "Associate Professor",
+    "description": "Legal intervention involving other sharp objects, suspect injured, subsequent encounter",
+    "startDate": "9/28/2022",
+    "endDate": "9/13/2022",
+    "image": "http://dummyimage.com/193x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "101",
+    "title": "Human Resources Manager",
+    "description": "Unspecified dislocation of unspecified foot, sequela",
+    "startDate": "5/30/2023",
+    "endDate": "8/15/2022",
+    "image": "http://dummyimage.com/240x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "102",
+    "title": "Editor",
+    "description": "Poisoning by, adverse effect of and underdosing of other parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics",
+    "startDate": "12/26/2022",
+    "endDate": "7/23/2023",
+    "image": "http://dummyimage.com/157x100.png/cc0000/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "103",
+    "title": "Research Associate",
+    "description": "Salter-Harris Type II physeal fracture of left metatarsal",
+    "startDate": "3/12/2023",
+    "endDate": "8/12/2022",
+    "image": "http://dummyimage.com/139x100.png/5fa2dd/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "104",
+    "title": "Web Developer II",
+    "description": "War operations involving unspecified effect of nuclear weapon, civilian, initial encounter",
+    "startDate": "4/6/2023",
+    "endDate": "9/18/2022",
+    "image": "http://dummyimage.com/142x100.png/5fa2dd/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "105",
+    "title": "Electrical Engineer",
+    "description": "Unspecified injury of other blood vessels at ankle and foot level, unspecified leg, sequela",
+    "startDate": "9/2/2022",
+    "endDate": "1/11/2023",
+    "image": "http://dummyimage.com/235x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "106",
+    "title": "Associate Professor",
+    "description": "Puncture wound without foreign body of trachea",
+    "startDate": "12/1/2022",
+    "endDate": "12/30/2022",
+    "image": "http://dummyimage.com/170x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "107",
+    "title": "Librarian",
+    "description": "Intentional self-harm by knife",
+    "startDate": "12/29/2022",
+    "endDate": "3/30/2023",
+    "image": "http://dummyimage.com/113x100.png/dddddd/000000",
+    "categories": "Social"
+  },
+  {
+    "id": "108",
+    "title": "Accounting Assistant II",
+    "description": "Person on outside of bus injured in collision with railway train or railway vehicle in nontraffic accident, initial encounter",
+    "startDate": "10/7/2022",
+    "endDate": "6/23/2023",
+    "image": "http://dummyimage.com/129x100.png/dddddd/000000",
+    "categories": "Social"
+  },
+  {
+    "id": "109",
+    "title": "Engineer III",
+    "description": "Person injured while boarding or alighting from other special all-terrain or other off-road motor vehicle, subsequent encounter",
+    "startDate": "11/30/2022",
+    "endDate": "11/3/2022",
+    "image": "http://dummyimage.com/220x100.png/ff4444/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "110",
+    "title": "Environmental Specialist",
+    "description": "Traumatic hemorrhage of cerebrum, unspecified, with loss of consciousness of unspecified duration, subsequent encounter",
+    "startDate": "11/6/2022",
+    "endDate": "5/16/2023",
+    "image": "http://dummyimage.com/203x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "111",
+    "title": "Structural Engineer",
+    "description": "Unspecified fracture of upper end of unspecified humerus, subsequent encounter for fracture with routine healing",
+    "startDate": "2/28/2023",
+    "endDate": "7/24/2023",
+    "image": "http://dummyimage.com/146x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "112",
+    "title": "VP Marketing",
+    "description": "Laceration of other specified muscles, fascia and tendons at thigh level, right thigh, subsequent encounter",
+    "startDate": "8/5/2022",
+    "endDate": "3/13/2023",
+    "image": "http://dummyimage.com/127x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "113",
+    "title": "Civil Engineer",
+    "description": "Unspecified injury of superficial palmar arch of unspecified hand, initial encounter",
+    "startDate": "10/1/2022",
+    "endDate": "2/23/2023",
+    "image": "http://dummyimage.com/110x100.png/dddddd/000000",
+    "categories": "Extra"
+  },
+  {
+    "id": "114",
+    "title": "Staff Accountant II",
+    "description": "Displaced comminuted fracture of shaft of right fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",
+    "startDate": "7/31/2022",
+    "endDate": "11/30/2022",
+    "image": "http://dummyimage.com/219x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "115",
+    "title": "Director of Sales",
+    "description": "Anterior subluxation of proximal end of tibia, unspecified knee",
+    "startDate": "2/13/2023",
+    "endDate": "8/2/2022",
+    "image": "http://dummyimage.com/115x100.png/dddddd/000000",
+    "categories": "Coding"
+  },
+  {
+    "id": "116",
+    "title": "Executive Secretary",
+    "description": "Traumatic rupture of left radial collateral ligament, subsequent encounter",
+    "startDate": "7/16/2023",
+    "endDate": "1/15/2023",
+    "image": "http://dummyimage.com/146x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "117",
+    "title": "Analyst Programmer",
+    "description": "Person on outside of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in traffic accident, initial encounter",
+    "startDate": "4/9/2023",
+    "endDate": "3/8/2023",
+    "image": "http://dummyimage.com/191x100.png/cc0000/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "118",
+    "title": "VP Product Management",
+    "description": "Poisoning by ophthalmological drugs and preparations, accidental (unintentional), subsequent encounter",
+    "startDate": "6/8/2023",
+    "endDate": "8/10/2022",
+    "image": "http://dummyimage.com/243x100.png/ff4444/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "119",
+    "title": "Research Assistant III",
+    "description": "Asphyxiation due to being trapped in a (discarded) refrigerator, undetermined, initial encounter",
+    "startDate": "10/27/2022",
+    "endDate": "1/29/2023",
+    "image": "http://dummyimage.com/108x100.png/cc0000/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "120",
+    "title": "Developer II",
+    "description": "Sprain of other parts of lumbar spine and pelvis",
+    "startDate": "2/4/2023",
+    "endDate": "4/13/2023",
+    "image": "http://dummyimage.com/146x100.png/5fa2dd/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "121",
+    "title": "Developer III",
+    "description": "Sprain of other parts of lumbar spine and pelvis",
+    "startDate": "2/4/2024",
+    "endDate": "4/13/2024",
+    "image": "http://dummyimage.com/146x100.png/5fa2dd/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "122",
+    "title": "Software Engineer",
+    "description": "Creating innovative web applications",
+    "startDate": "8/15/2024",
+    "endDate": "10/31/2024",
+    "image": "http://dummyimage.com/146x100.png/3f7e3d/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "123",
+    "title": "Data Analyst",
+    "description": "Analyzing and interpreting complex datasets",
+    "startDate": "5/1/2024",
+    "endDate": "7/30/2024",
+    "image": "http://dummyimage.com/146x100.png/8e44ad/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "124",
+    "title": "UX/UI Designer",
+    "description": "Crafting delightful user experiences",
+    "startDate": "10/20/2024",
+    "endDate": "12/31/2024",
+    "image": "http://dummyimage.com/146x100.png/f39c12/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "125",
+    "title": "Frontend Developer",
+    "description": "Building interactive user interfaces",
+    "startDate": "9/8/2024",
+    "endDate": "11/30/2024",
+    "image": "http://dummyimage.com/146x100.png/3498db/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "126",
+    "title": "Backend Engineer",
+    "description": "Developing scalable server-side applications",
+    "startDate": "11/15/2024",
+    "endDate": "2/28/2025",
+    "image": "http://dummyimage.com/146x100.png/c0392b/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "127",
+    "title": "Machine Learning Specialist",
+    "description": "Creating AI models for predictive analysis",
+    "startDate": "3/1/2025",
+    "endDate": "6/30/2025",
+    "image": "http://dummyimage.com/146x100.png/9b59b6/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "128",
+    "title": "Mobile App Developer",
+    "description": "Designing and building mobile applications",
+    "startDate": "6/15/2025",
+    "endDate": "9/30/2025",
+    "image": "http://dummyimage.com/146x100.png/27ae60/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "129",
+    "title": "Product Manager",
+    "description": "Defining and managing product development",
+    "startDate": "10/1/2025",
+    "endDate": "12/31/2025",
+    "image": "http://dummyimage.com/146x100.png/f1c40f/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "130",
+    "title": "DevOps Engineer",
+    "description": "Implementing continuous integration and deployment",
+    "startDate": "1/15/2026",
+    "endDate": "4/30/2026",
+    "image": "http://dummyimage.com/146x100.png/d35400/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "131",
+    "title": "Game Developer",
+    "description": "Creating exciting and immersive games",
+    "startDate": "5/1/2026",
+    "endDate": "8/31/2026",
+    "image": "http://dummyimage.com/146x100.png/3498db/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "132",
+    "title": "Data Engineer",
+    "description": "Building and maintaining data pipelines",
+    "startDate": "9/1/2026",
+    "endDate": "12/15/2026",
+    "image": "http://dummyimage.com/146x100.png/27ae60/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "133",
+    "title": "UI Designer",
+    "description": "Designing intuitive user interfaces",
+    "startDate": "1/1/2027",
+    "endDate": "3/31/2027",
+    "image": "http://dummyimage.com/146x100.png/f1c40f/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "134",
+    "title": "Quality Assurance Specialist",
+    "description": "Ensuring the quality of software products",
+    "startDate": "4/1/2027",
+    "endDate": "6/30/2027",
+    "image": "http://dummyimage.com/146x100.png/9b59b6/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "135",
+    "title": "Social Media Manager",
+    "description": "Managing social media accounts and content",
+    "startDate": "7/15/2027",
+    "endDate": "10/31/2027",
+    "image": "http://dummyimage.com/146x100.png/3498db/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "136",
+    "title": "Frontend Developer",
+    "description": "Building interactive user interfaces",
+    "startDate": "11/1/2027",
+    "endDate": "2/28/2028",
+    "image": "http://dummyimage.com/146x100.png/c0392b/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "137",
+    "title": "Event Planner",
+    "description": "Organizing and coordinating events",
+    "startDate": "3/1/2028",
+    "endDate": "6/30/2028",
+    "image": "http://dummyimage.com/146x100.png/9b59b6/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "138",
+    "title": "UX/UI Designer",
+    "description": "Crafting delightful user experiences",
+    "startDate": "7/1/2028",
+    "endDate": "10/31/2028",
+    "image": "http://dummyimage.com/146x100.png/27ae60/ffffff",
+    "categories": "Design"
+  },
+  {
+    "id": "139",
+    "title": "Freelance Writer",
+    "description": "Creating engaging and informative content",
+    "startDate": "11/1/2028",
+    "endDate": "2/28/2029",
+    "image": "http://dummyimage.com/146x100.png/f1c40f/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "140",
+    "title": "Full Stack Developer",
+    "description": "Developing both frontend and backend applications",
+    "startDate": "3/1/2029",
+    "endDate": "6/30/2029",
+    "image": "http://dummyimage.com/146x100.png/d35400/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "141",
+    "title": "Community Manager",
+    "description": "Engaging and building communities",
+    "startDate": "7/1/2029",
+    "endDate": "10/31/2029",
+    "image": "http://dummyimage.com/146x100.png/3498db/ffffff",
+    "categories": "Social"
+  },
+  {
+    "id": "142",
+    "title": "Digital Marketing Specialist",
+    "description": "Creating and managing digital marketing campaigns",
+    "startDate": "11/1/2029",
+    "endDate": "2/28/2030",
+    "image": "http://dummyimage.com/146x100.png/c0392b/ffffff",
+    "categories": "Extra"
+  },
+  {
+    "id": "143",
+    "title": "Data Scientist",
+    "description": "Analyzing and interpreting complex datasets",
+    "startDate": "3/1/2030",
+    "endDate": "6/30/2030",
+    "image": "http://dummyimage.com/146x100.png/9b59b6/ffffff",
+    "categories": "Coding"
+  },
+  {
+    "id": "144",
+    "title": "Volunteer Coordinator",
+    "description": "Managing and coordinating volunteers",
+    "startDate": "7/1/2030",
+    "endDate": "10/31/2030",
+    "image": "http://dummyimage.com/146x100.png/27ae60/ffffff",
+    "categories": "Social"
+  }
+]

@@ -1,0 +1,44 @@
+// params
+
+$buttonHeigh: 20px;
+$buttonWidth: 40px;
+$paddingSwitch: 5px;
+
+.darkButton {
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px 5px;
+  .background {
+    background-color: var(--heliotrope);
+    border-radius: 15px;
+    width: $buttonWidth;
+    height: $buttonHeigh;
+    position: relative;
+    padding: $paddingSwitch;
+  }
+
+  .circle {
+    background-color: var(--white);
+    border-radius: 50%;
+    height: calc($buttonHeigh - $paddingSwitch);
+    width: calc($buttonHeigh - $paddingSwitch);
+    transition: all 300ms ease-in-out;
+
+    position: absolute;
+    top: 50%;
+    left: $paddingSwitch;
+    transform: translate(0%, -50%);
+  }
+
+  &.on {
+    .circle {
+      left: calc(100% - $buttonHeigh);
+    }
+  }
+}
+
+#dark .darkButton {
+  .circle {
+    background-color: var(--scarlet-gum);
+  }
+}

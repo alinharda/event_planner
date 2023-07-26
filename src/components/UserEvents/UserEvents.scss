@@ -1,0 +1,31 @@
+.eventsList {
+  display: flex;
+  gap: 30px;
+  position: relative;
+  transition: all 300ms ease;
+}
+
+.eventListControls {
+  display:flex;
+  justify-content: center;
+  gap: 20px;
+
+  h2 {
+    cursor: pointer;
+  }
+
+  .next:hover{
+    transform: translate(2px);
+  }
+
+  .back:hover{
+    transform: translate(-2px);
+  }
+
+}
+
+#dark {
+  .eventListControls{
+    color: var(--white);
+  }
+}
